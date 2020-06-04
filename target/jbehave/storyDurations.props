@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Thu Jun 04 11:19:33 MSK 2020
+stories/mainPage/mainpage_basics.story=39000
+threads=1
+total=39000
+threadAverage=39000
